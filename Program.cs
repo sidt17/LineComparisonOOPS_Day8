@@ -8,9 +8,8 @@ namespace LineComparison
 
         static void Main(string[] args)
         {
-            Comparetwolines obj1 = new Comparetwolines();
-            obj1.Comparelines();
-
+            Equalityof2lines value = new Equalityof2lines();
+            value.Comparison();
 
 
         }
