@@ -8,10 +8,11 @@ namespace LineComparison
 
         static void Main(string[] args)
         {
-            Cartesiansystem obj = new Cartesiansystem();
-            obj.Calculatinglength();
+            Comparetwolines obj1 = new Comparetwolines();
+            obj1.Comparelines();
+
 
 
         }
-    }
+}
 }
